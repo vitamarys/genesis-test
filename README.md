@@ -2,7 +2,7 @@
 Для запуску програми необхідно мати вільний порт 3000
 
 Усі API Endpoints починаються вiдносно шляху http://localhost:3000/api/
-###Повні шляхи API Endpoints:
+### Повні шляхи API Endpoints:
 
 1. (GET) http://localhost:3000/api/rate
 2. (POST) http://localhost:3000/api/subscribe
